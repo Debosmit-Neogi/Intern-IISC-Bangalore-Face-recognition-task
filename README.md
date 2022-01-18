@@ -1,6 +1,8 @@
 # Face-recognition-task-code-base-using-LFW-dataset
 
-This repository contains all the code and results of the experiments conducted during my research internship at Visual Computing Lab, IISC Bangalore.
+This repository contains all the code and results of the experiments conducted during my research internship at **Visual Computing Lab, IISC Bangalore**. The experiments comprise of various state of the art algorithms.
+
+I have started my experiments by using the most popular light weight face recognition library **Deep Face** (https://github.com/serengil/deepface). 
 
 P.S: 
 
