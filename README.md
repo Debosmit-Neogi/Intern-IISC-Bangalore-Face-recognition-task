@@ -13,7 +13,11 @@ This repository contains all the code and results of the experiments conducted d
                     2. VGG-Face model: 87.24353256021409
   The metrics used:
   
-                     [{'verified': True, 'distance': 0.21600544769726582, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'},                            {'verified': True, 'distance': 1.0554645896609927e-05, 'max_threshold_to_verify': 0.68, 'model': 'ArcFace', 'similarity_metric': 'cosine'},                          {'verified': True, 'distance': 0.21600544769726582, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'}]
+                     [{'verified': True, 'distance': 0.21600544769726582, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'},
+                     
+                     {'verified': True, 'distance': 1.0554645896609927e-05, 'max_threshold_to_verify': 0.68, 'model': 'ArcFace', 'similarity_metric': 'cosine'},
+                     
+                     {'verified': True, 'distance': 0.21600544769726582, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'}]
                      
                     
    For details regarding results obtained, check **Results** directory.
@@ -22,4 +26,4 @@ This repository contains all the code and results of the experiments conducted d
 P.S: 
  1. The codes may or may not be sufficiently documented.
 
-2. These are merely experimental results. So follow the Colab notebooks (Provided in the **Code** directory) with a pinch of salt.
+2. These are merely experimental results. So follow the Colab notebooks (Provided in the **Code** directory) with a grain of salt.
