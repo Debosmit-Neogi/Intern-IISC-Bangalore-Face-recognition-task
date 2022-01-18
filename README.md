@@ -11,7 +11,7 @@ This repository contains all the code and results of the experiments conducted d
                     
                     2. VGG-Face model: 87.24353256021409
                     
-         For details regarding results obtained, check **Results**__ directory.
+         For details regarding results obtained, check **_Results_** directory.
 
 P.S: 
  1. The codes may or may not be sufficiently documented.
