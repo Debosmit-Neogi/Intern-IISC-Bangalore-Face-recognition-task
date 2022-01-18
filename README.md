@@ -10,6 +10,8 @@ This repository contains all the code and results of the experiments conducted d
                     1. Arc-Face model: 94.5945945945946
                     
                     2. VGG-Face model: 87.24353256021409
+                    
+         For details regarding results obtained, check **Results**__ directory.
 
 P.S: 
  1. The codes may or may not be sufficiently documented.
