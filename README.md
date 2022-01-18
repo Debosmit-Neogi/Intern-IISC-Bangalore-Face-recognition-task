@@ -6,7 +6,10 @@ This repository contains all the code and results of the experiments conducted d
 
       **  The models used were VGG-Face and Arc-Face 
       
-      **  
+      **  The F1 score obtained after training 1000 pairs are:
+                    1. Arc-Face model: 94.5945945945946
+                    
+                    2. VGG-Face model: 87.24353256021409
 
 P.S: 
  1. The codes may or may not be sufficiently documented.
