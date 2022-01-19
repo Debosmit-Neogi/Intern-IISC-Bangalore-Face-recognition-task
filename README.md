@@ -11,7 +11,7 @@ This repository contains all the code and results of the experiments conducted d
                     1. Arc-Face model: 94.5945945945946
                     
                     2. VGG-Face model: 87.24353256021409
-  The metrics used:
+  The metrics used/obtained:
   
           [{'verified': True, 'distance': 0.21600544769726582, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'},
                      
