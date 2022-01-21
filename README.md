@@ -2,7 +2,7 @@
 
 This repository contains all the code and results of the experiments conducted during my research internship at **Visual Computing Lab, IISC Bangalore**. My objective was to implement various face recognition algorithms on the **LFW Dataset** (http://vis-www.cs.umass.edu/lfw/) and perform comparative studies on the result metrics obtained.
 
- ~ I started my experiments by using the most popular light weight face recognition library **Deep Face** (https://github.com/serengil/deepface). 
+ * I started my experiments by using the most popular light weight face recognition library **Deep Face** (https://github.com/serengil/deepface). 
 
  The models used were VGG-Face and Arc-Face 
       
@@ -22,7 +22,21 @@ This repository contains all the code and results of the experiments conducted d
                     
    For details regarding results obtained, check **Results** directory.
 
-~ The second approach was using **face.evoLVe** (https://github.com/ZhaoJ9014/face.evoLVe). face.evoLVe is a high performance Face Recognition library. For the most part, I was able to implement the algorithm to perform face detection task on various images. You can check the **Results** section.
+* The second approach was using **face.evoLVe** (https://github.com/ZhaoJ9014/face.evoLVe). face.evoLVe is a high performance Face Recognition library. For the most part, I was able to implement the algorithm to perform face detection task on various images. You can check the **Results** section.
+
+
+
+## INSTALL
+* Clone the repo
+  ```
+  git clone https://github.com/Debosmit-Neogi/Face-recognition-task-code-base-using-LFW-dataset.git
+  ```
+
+* Install the dependencies
+  ```
+  pip install -r requirements.txt
+  ```
+
          
 
 P.S: 
