@@ -12,13 +12,14 @@ This repository contains all the code and results of the experiments conducted d
                     
                     2. VGG-Face model: 87.24353256021409
   The metrics used/obtained:
-  
+            ```
+           
           [{'verified': True, 'distance': 0.21600544769726582, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'},
                      
           {'verified': True, 'distance': 1.0554645896609927e-05, 'max_threshold_to_verify': 0.68, 'model': 'ArcFace', 'similarity_metric': 'cosine'},
                      
           {'verified': True, 'distance': 0.21600544769726582, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'}]
-                     
+            ```     
                     
    For details regarding results obtained, check **Results** directory.
 
