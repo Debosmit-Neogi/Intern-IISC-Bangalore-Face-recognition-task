@@ -21,6 +21,8 @@ This repository contains all the code and results of the experiments conducted d
                      
                     
    For details regarding results obtained, check **Results** directory.
+
+~ The second approach was using **face.evoLVe** (https://github.com/ZhaoJ9014/face.evoLVe). face.evoLVe is a high performance Face Recognition library. For the most part, I was able to implement the algorithm to perform face detection task on various images. You can check the **Results** section.
          
 
 P.S: 
