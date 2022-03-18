@@ -38,8 +38,5 @@ This repository contains all the code and results of the experiments conducted d
   ```
 
          
-
-P.S: 
- 1. The codes may or may not be sufficiently documented.
-
-2. These are merely experimental results. So follow the Colab notebooks (Provided in the **Code** directory) with a grain of salt.
+P.S:
+The code available in this directory are not the complete work. The code is for just the parts of the project that are open sourced.
