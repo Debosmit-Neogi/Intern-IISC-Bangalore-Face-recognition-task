@@ -25,6 +25,8 @@ This repository contains all the code and results of the experiments conducted d
 * The second approach was using **face.evoLVe** (https://github.com/ZhaoJ9014/face.evoLVe). face.evoLVe is a high performance Face Recognition library. For the most part, I was able to implement the algorithm to perform face detection task on various images. You can check the **Results** section.
 
 
+## PRE-REQUISITES
+ * Python >= 3.6 (for Training & Validation) and Python 2.7 (For visualization using Tensorboard)
 
 ## INSTALL
 * Clone the repo
